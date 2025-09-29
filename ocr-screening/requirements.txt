@@ -4,3 +4,7 @@ Flask==3.0.0
 Pillow
 werkzeug
 setuptools
+PySide6
+numpy
+opencv-python
+requests
