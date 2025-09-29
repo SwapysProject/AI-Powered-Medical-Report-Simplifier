@@ -1,5 +1,5 @@
 # AI-Powered Medical Report Simplifier 🚀 Quick Start
-
+Works offline/locally!
 ### Prerequisites
 - Node.js 16+
 - Python 3.8+ (Python 3.12 was preferred as it was used)
