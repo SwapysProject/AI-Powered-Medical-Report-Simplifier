@@ -1,4 +1,4 @@
-# Me## 🚀 Quick Start
+# AI-Powered Medical Report Simplifier 🚀 Quick Start
 
 ### Prerequisites
 - Node.js 16+
@@ -119,11 +119,6 @@ text_input: "Hemoglobin 10.2 g/dL (Low), WBC 11,200 /uL (High)"
     "High white blood cells often indicate infection or inflammation."
   ],
   "confidence": 0.92,
-  "warnings": ["Status 'high' may not match value 11200 for WBC"],
-  "critical_alert": {
-    "message": "🚨 CRITICAL VALUES DETECTED - Seek immediate medical attention",
-    "critical_tests": ["Hemoglobin"]
-  },
   "processing_confidence": {
     "overall": 0.92,
     "ocr": 0.95,
@@ -134,10 +129,7 @@ text_input: "Hemoglobin 10.2 g/dL (Low), WBC 11,200 /uL (High)"
     "abnormal_tests_count": 2,
     "critical_tests_count": 1
   },
-  "system_analysis": {
-    "hematology": "Low hemoglobin with elevated WBC suggests possible anemia with infection"
-  },
-  "status": "ok_with_warnings"
+  "status": "ok"
 }
 ```
 
