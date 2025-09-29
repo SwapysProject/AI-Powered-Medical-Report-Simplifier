@@ -1,5 +1,5 @@
 # AI-Powered Medical Report Simplifier 🚀 Quick Start
-Works offline/locally!
+🔐 **Offline-First Architecture** - Complete local processing ensures medical data privacy, regulatory compliance, and zero external data transmission.
 ### Prerequisites
 - Node.js 16+
 - Python 3.8+ (Python 3.12 was preferred as it was used)
